@@ -16,7 +16,7 @@ const Project = ({ title, description, img, techStack, link, github }) => {
           </div>
           <div>
             <img
-              src={image}
+              src={img}
               alt="img projects"
               className="w-full object-cover object-center rounded-lg"
             />

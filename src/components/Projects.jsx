@@ -1,5 +1,6 @@
-import React from "react";
-import prueba from "../img/intro.svg";
+import ayd from "../img/ayd.jpg";
+import gym from "../img/gym.jpg";
+import intro from "../img/intro.jpg";
 import Project from "./Project";
 
 const Projects = () => {
@@ -10,7 +11,7 @@ const Projects = () => {
       description:
         "Sistema de mantenimiento, procesamiento y distribución de productos.",
       github: "https://github.com/ikurotime/Svelte-Twilio-chat",
-      image: "ayd",
+      image: ayd,
       link: "https://techtalks.davidhuertas.dev",
       id: "1",
     },
@@ -20,7 +21,7 @@ const Projects = () => {
       description:
         "Proyecto realizado para una empresa de shows y decoraciones.",
       github: "https://github.com/JosephJS123/page-G-M",
-      image: "gym",
+      image: gym,
       link: "https://produccionesgym.netlify.app/",
       id: "2",
     },
@@ -29,7 +30,7 @@ const Projects = () => {
       techStack: "React, Custom Hooks, TailwindCSS",
       description: "This portfolio website. You can see the code here.",
       github: "https://github.com/JosephJS123/portfolio-2022",
-      image: "intro",
+      image: intro,
       link: "https://josephguerrerodev.netlify.app/",
       id: "3",
     },
@@ -39,7 +40,7 @@ const Projects = () => {
       description:
         "Sistema de mantenimiento, procesamiento y distribución de productos.",
       github: "https://github.com/ikurotime/Svelte-Twilio-chat",
-      image: "ayd",
+      image: ayd,
       link: "https://techtalks.davidhuertas.dev",
       id: "4",
     },
@@ -49,7 +50,7 @@ const Projects = () => {
       description:
         "Proyecto realizado para una empresa de shows y decoraciones.",
       github: "https://github.com/JosephJS123/page-G-M",
-      image: "gym",
+      image: gym,
       link: "https://produccionesgym.netlify.app/",
       id: "5",
     },
@@ -58,7 +59,7 @@ const Projects = () => {
       techStack: "React, Custom Hooks, TailwindCSS",
       description: "This portfolio website. You can see the code here.",
       github: "https://github.com/JosephJS123/portfolio-2022",
-      image: "intro",
+      image: intro,
       link: "https://josephguerrerodev.netlify.app/",
       id: "6",
     },
@@ -66,9 +67,7 @@ const Projects = () => {
 
   return (
     <div id="Projects">
-      <h2
-        className="my-10 text-4xl sm:text-5xl font-bold border-b-8 border-solid border-[#3b82f6] w-fit mx-auto"
-      >
+      <h2 className="my-10 text-4xl sm:text-5xl font-bold border-b-8 border-solid border-[#3b82f6] w-fit mx-auto">
         PROJECTS
       </h2>
       <section className="md:grid md:grid-cols-2 lg:grid-cols-3">
