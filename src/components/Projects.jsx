@@ -28,9 +28,9 @@ const Projects = () => {
       title: "This Portfolio",
       techStack: "React, Custom Hooks, TailwindCSS",
       description: "This portfolio website. You can see the code here.",
-      github: "https://github.com/JosephJS123/page-G-M",
+      github: "https://github.com/JosephJS123/portfolio-2022",
       image: "intro",
-      link: "https://produccionesgym.netlify.app/",
+      link: "https://josephguerrerodev.netlify.app/",
       id: "3",
     },
     {
@@ -55,11 +55,11 @@ const Projects = () => {
     },
     {
       title: "This Portfolio",
-      techStack: "React, ContextAPI, TailwindCSS",
+      techStack: "React, Custom Hooks, TailwindCSS",
       description: "This portfolio website. You can see the code here.",
-      github: "https://github.com/JosephJS123/page-G-M",
+      github: "https://github.com/JosephJS123/portfolio-2022",
       image: "intro",
-      link: "https://produccionesgym.netlify.app/",
+      link: "https://josephguerrerodev.netlify.app/",
       id: "6",
     },
   ];
