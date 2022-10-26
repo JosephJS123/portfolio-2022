@@ -1,7 +1,7 @@
 export const Arrow = () => {
   return (
     <svg
-      className="relative my-10 rotate-90 stroke-slate-700 dark:stroke-slate-100 "
+      className="relative my-10 rotate-90 stroke-gray-900 dark:stroke-gray-900 "
       width="148"
       height="90"
       viewBox="0 0 198 109"
@@ -19,7 +19,7 @@ export const Arrow = () => {
 export const Arrow2 = () => {
   return (
     <svg
-      className="relative md:col-start-2 m-3 stroke-slate-700 dark:stroke-slate-100 -rotate-90 sm:bottom-0 sm:right-10 md:right-[20vw] sm:-rotate-45 h-32"
+      className="relative md:col-start-2 m-3 stroke-gray-900 dark:stroke-gray-900 -rotate-90 sm:bottom-0 sm:right-10 md:right-[20vw] sm:-rotate-45 h-32"
       width="148"
       height="49"
       viewBox="0 0 148 49"
@@ -37,7 +37,7 @@ export const Arrow2 = () => {
 export const Arrow3 = () => {
   return (
     <svg
-      className="realative rotate-90 z-[10] bottom-20 stroke-slate-700 dark:stroke-slate-100 h-32"
+      className="realative rotate-90 z-[10] bottom-20 stroke-gray-900 dark:stroke-gray-900 h-32"
       width="148"
       height="49"
       viewBox="0 0 270 79"
